@@ -25,8 +25,8 @@ import javax.swing.JTextField;
 
 public class MainFrame extends JFrame implements ActionListener {
 	
-	public static final int width = 400;
-	public static final int height = 200;
+	public static final int width = 440;
+	public static final int height = 230;
 	
 	JTextField inputField = new JTextField("", 20);
 	JTextField outputField = new JTextField("", 20);
